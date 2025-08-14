@@ -8,7 +8,7 @@ import Education from "./Education";
 
 export default function About() {
   return (
-    <div className="min-h-screen p-10 gap-8">
+    <div className="min-h-screen p-6 sm:p-10 gap-8">
       <HeroSection
         title={"This is my personal data and education!"}
         bgImage={imageAbout}
