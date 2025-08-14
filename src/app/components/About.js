@@ -80,7 +80,7 @@ export default function About() {
               Hire Me
             </a>
             <a
-              href="https://drive.google.com/file/d/1hweozkt0rKA48NzNIGapJtDHtwPgUHuo/view?usp=sharing"
+              href="https://drive.google.com/file/d/1EqI_IKZ037EMxnSHmYYx0hG5C12IVckm/view?usp=sharing"
               className="bg-green-500 text-base md:text-lg block py-3 max-w-fit px-2 md:px-4 rounded-sm mt-8 transition-all ease-linear hover:bg-green-600 cursor-pointer"
             >
               Check CV
