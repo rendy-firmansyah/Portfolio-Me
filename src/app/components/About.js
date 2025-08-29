@@ -25,16 +25,16 @@ export default function About() {
             IT Developer<br></br>& Freelance Web Developer.
           </h1>
           <p className="my-6 text-justify">
-            I am a graduate student of Jember University, Faculty of Computer
-            Science, Informatics Engineering Study Program. I have
-            organizational experience ranging from being the Chief Coordinator
-            of the Technology Infrastructure Laboratory Assistant as well as
-            Laboratory Assistant, I have also been part of the information media
-            staff at Al-Azhar Islamic Spirituality UKM. I have expertise in data
-            and web programming, ranging from data entry, data analyst, machine
-            learning, it and website developer. I am very interested in this
-            field and I am very ready to work professionally and responsibly
-            with the skills I have.
+            I graduated from the Informatics Study Program, Faculty of Computer
+            Science, University of Jember with a GPA of 3.71. During my studies,
+            I was active in various organizational activities, including serving
+            as the Head Coordinator of the Technology Infrastructure Laboratory
+            Assistants, Practicum Assistant, and information media staff at the
+            Al-Azhar Islamic Spirituality Student Activity Unit. I possess
+            expertise in the field of Information Technology, particularly in
+            website development and technical support (IT support).
+            Additionally, I have a strong foundation in data and technology
+            analysis, as well as machine learning model development.
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -80,7 +80,7 @@ export default function About() {
               Hire Me
             </a>
             <a
-              href="https://drive.google.com/file/d/1EqI_IKZ037EMxnSHmYYx0hG5C12IVckm/view?usp=sharing"
+              href="https://drive.google.com/file/d/1NPZMdg697-wOHYN4zJF2vGWlJlDtx6hu/view?usp=sharing"
               className="bg-green-500 text-base md:text-lg block py-3 max-w-fit px-2 md:px-4 rounded-sm mt-8 transition-all ease-linear hover:bg-green-600 cursor-pointer"
             >
               Check CV
